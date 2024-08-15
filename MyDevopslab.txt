@@ -1,0 +1,4 @@
+ https://git-scm.com/download/win
+ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+ https://github.com/signup
+ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
